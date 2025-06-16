@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BenoitMain/BenoitMain/blob/main/BenoitMain_dynamic_banner.gif" alt="BenoitMain Dynamic Banner" width="130%" height="150"/>
+  <img src="https://github.com/BenoitMain/BenoitMain/blob/main/BenoitMain_dynamic_banner_1280x180.gif" alt="BenoitMain Dynamic Banner"/>
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 Hi, I'm **Benoit**,  
 A former French Navy non-commissioned officer turned **Web & Mobile Developer** with a deep sense of discipline, teamwork, and curiosity.
 
-🎓 Currently studying at **Holberton School**, I'm looking for an **apprenticeship starting August 2025** to apply my skills in real-world SaaS and cybersecurity projects.
+🎓 Currently studying at Holberton School, I'm looking for an apprenticeship starting December 2025 to apply my skills in real-world SaaS and cybersecurity projects.
 
 ---
 
