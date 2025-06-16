@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/BenoitMain/BenoitMain/blob/main/BenoitMain_dynamic_banner_1280x180.gif](https://github.com/BenoitMain/BenoitMain/blob/main/A_digital_graphic_design_banner_features_the_name_.png)" alt="BenoitMain Banner"/>
+  <img src="https://github.com/BenoitMain/BenoitMain/blob/main/A_digital_graphic_design_banner_features_the_name_.png" alt="BenoitMain Banner"/>
 </p>
 
 <div align="center">
@@ -72,7 +72,7 @@ React · Node.js · Express · PWA · PDF Export · Offline support · Encryptio
 
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Mail-maingon.benoit@live.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maingon.benoit@live.fr)
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:maingon[dot]benoit[at]live[dot]fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BenoitMaingon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maingonbenoit/)
 [![GitHub](https://img.shields.io/badge/GitHub-BenoitMain-181717?style=for-the-badge&logo=github)](https://github.com/BenoitMain)
 
