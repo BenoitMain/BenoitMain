@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BenoitMain/BenoitMain/blob/main/BenoitMain_dynamic_banner_1280x180.gif" alt="BenoitMain Dynamic Banner"/>
+  <img src="[https://github.com/BenoitMain/BenoitMain/blob/main/BenoitMain_dynamic_banner_1280x180.gif](https://github.com/BenoitMain/BenoitMain/blob/main/A_digital_graphic_design_banner_features_the_name_.png)" alt="BenoitMain Banner"/>
 </p>
 
 <div align="center">
