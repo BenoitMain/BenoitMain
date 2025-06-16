@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,100:6E48AA&height=200&section=header&text=Benoit%20Maingon%20🚀&fontSize=40&fontAlignY=35&desc=Web%20%26%20Mobile%20Developer%20|%20Tech%20Enthusiast&descAlign=60&descAlignY=60" alt="Header">
+  <img src="https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/main/BenoitMain_dynamic_banner.gif" alt="BenoitMain Dynamic Banner"/>
 </p>
 
 <div align="center">
