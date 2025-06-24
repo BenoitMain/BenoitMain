@@ -82,8 +82,8 @@ React · Node.js · Express · PWA · PDF Export · Offline support · Encryptio
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BenoitMain&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenoitMain&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitMain&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
